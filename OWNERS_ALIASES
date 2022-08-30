@@ -1,0 +1,212 @@
+aliases:
+  sig-api-machinery-leads:
+    - deads2k
+    - fedebongio
+    - lavalamp
+  sig-apps-leads:
+    - janetkuo
+    - kow3ns
+    - soltysh
+  sig-architecture-leads:
+    - derekwaynecarr
+    - dims
+    - johnbelamaric
+  sig-auth-leads:
+    - deads2k
+    - enj
+    - liggitt
+    - mikedanese
+    - ritazh
+  sig-autoscaling-leads:
+    - gjtempleton
+    - mwielgus
+  sig-cli-leads:
+    - KnVerey
+    - eddiezane
+    - seans3
+    - soltysh
+  sig-cloud-provider-leads:
+    - andrewsykim
+    - cheftako
+  sig-cluster-lifecycle-leads:
+    - fabriziopandini
+    - justinsb
+    - neolit123
+    - vincepri
+  sig-contributor-experience-leads:
+    - alisondy
+    - cblecker
+    - mrbobbytables
+    - nikhita
+  sig-docs-leads:
+    - divya-mohan0209
+    - jimangel
+    - kbhawkey
+    - onlydole
+    - sftim
+  sig-instrumentation-leads:
+    - dashpole
+    - dgrisonnet
+    - ehashman
+    - logicalhan
+  sig-k8s-infra-leads:
+    - ameukam
+    - dims
+    - spiffxp
+    - thockin
+  sig-multicluster-leads:
+    - jeremyot
+    - pmorie
+  sig-network-leads:
+    - caseydavenport
+    - dcbw
+    - thockin
+  sig-node-leads:
+    - dchen1107
+    - derekwaynecarr
+  sig-release-leads:
+    - cpanato
+    - jeremyrickard
+    - justaugustus
+    - puerco
+    - saschagrunert
+  sig-scalability-leads:
+    - mm4tt
+    - shyamjvs
+    - wojtek-t
+  sig-scheduling-leads:
+    - Huang-Wei
+    - ahg-g
+    - alculquicondor
+  sig-security-leads:
+    - IanColdwater
+    - tabbysable
+  sig-storage-leads:
+    - jsafrane
+    - msau42
+    - saad-ali
+    - xing-yang
+  sig-testing-leads:
+    - BenTheElder
+    - alvaroaleman
+    - cjwagner
+    - spiffxp
+    - stevekuznetsov
+  sig-ui-leads:
+    - floreks
+    - maciaszczykm
+    - shu-mutou
+  sig-usability-leads:
+    - hpandeycodeit
+    - morengab
+    - tashimi
+  sig-windows-leads:
+    - claudiubelu
+    - jayunit100
+    - jsturtevant
+    - marosset
+  wg-api-expression-leads:
+    - apelisse
+    - kwiesmueller
+  wg-data-protection-leads:
+    - xing-yang
+    - yuxiangqian
+  wg-iot-edge-leads:
+    - cantbewong
+    - cindyxing
+    - dejanb
+  wg-multitenancy-leads:
+    - srampal
+    - tashimi
+  wg-policy-leads:
+    - JimBugwadia
+    - rficcaglia
+  wg-reliability-leads:
+    - deads2k
+    - stevekuznetsov
+    - wojtek-t
+  wg-structured-logging-leads:
+    - pohly
+    - serathius
+  ug-big-data-leads:
+    - erikerlandson
+    - foxish
+    - liyinan926
+  ug-vmware-users-leads:
+    - brysonshepherd
+    - cantbewong
+    - mylesagray
+    - phenixblue
+  committee-code-of-conduct:
+    - celestehorgan
+    - karenhchu
+    - palnabarun
+    - tpepper
+    - vllry
+  committee-security-response:
+    - cjcullen
+    - joelsmith
+    - lukehinds
+    - micahhausler
+    - swamymsft
+    - tabbysable
+    - tallclair
+  committee-steering:
+    - cblecker
+    - dims
+    - justaugustus
+    - liggitt
+    - mrbobbytables
+    - parispittman
+    - tpepper
+## BEGIN CUSTOM CONTENT
+  enhancements-approvers:
+    - jeremyrickard
+    - johnbelamaric
+    - kikisdeliveryservice
+    - mrbobbytables
+  enhancements-reviewers:
+    - annajung
+    - jeremyrickard
+    - johnbelamaric
+    - kikisdeliveryservice
+    - mrbobbytables
+    - palnabarun
+  kep-tools-approvers:
+    - jeremyrickard
+    - johnbelamaric
+    - justaugustus
+    - mrbobbytables
+    - palnabarun
+  kep-tools-reviewers:
+    - jeremyrickard
+    - johnbelamaric
+    - justaugustus
+    - mrbobbytables
+    - palnabarun
+  prod-readiness-approvers:
+    - johnbelamaric
+    - deads2k
+    - wojtek-t
+  prod-readiness-approvers-emeritus:
+    - ehashman
+  provider-aws:
+    - justinsb
+    - nckturner
+    - wongma7
+  provider-azure:
+    - craiglpeters
+    - feiskyer
+    - khenidak
+  provider-gcp:
+    - abgworrall
+  provider-ibmcloud:
+    - spzala
+  provider-openstack:
+    - chrigl
+    - lingxiankong
+    - ramineni
+  provider-vmware:
+    - cantbewong
+    - frapposelli
+## END CUSTOM CONTENT

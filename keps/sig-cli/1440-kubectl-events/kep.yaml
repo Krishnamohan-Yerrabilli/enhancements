@@ -1,0 +1,34 @@
+title: Kubectl events
+kep-number: 1440
+authors:
+  - "@hpandeycodeit"
+owning-sig: sig-cli
+participating-sigs:
+  - sig-cli
+status: implementable
+creation-date: 2019-10-08
+reviewers:
+  - "@soltysh"
+  - "@pwittrock"
+approvers:
+  - "@soltysh"
+  - "@pwittrock"
+
+see-also:
+  - https://docs.google.com/document/d/1w-HRLtMncDAL_yQQJdHDasyCZRdJTOV1N6y22fGsKkY/edit#
+replaces: []
+
+stage: "alpha"
+
+latest-milestone: "1.23"
+
+milestone:
+  alpha: "v1.23"
+  beta: "v1.25"
+  stable: "v1.26"
+
+feature-gates: []
+disable-supported: false
+
+# The following PRR answers are required at beta release
+metrics: []

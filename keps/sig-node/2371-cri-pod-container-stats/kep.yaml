@@ -1,0 +1,30 @@
+kep-number: 2371
+title: cAdvisor-less, CRI-full Container and Pod Stats
+authors:
+  - "@haircommander"
+  - "@bobbypage"
+owning-sig: sig-node
+participating-sigs:
+reviewers:
+  - "@derekwaynecarr"
+  - "@mrunalp"
+  - "@ehashman"
+  - "@marosset"
+  - "@mikebrow"
+approvers:
+  - "@dchen1107"
+prr-approvers:
+  - "@ehashman"
+creation-date: 2021-01-27
+last-updated: 2022-06-16
+status: implementable
+stage: alpha
+latest-milestone: "v1.25"
+milestone:
+  alpha: "v1.23"
+see-also:
+  - N/A
+replaces:
+  - N/A
+superseded-by:
+  - N/A
