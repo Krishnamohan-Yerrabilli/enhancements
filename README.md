@@ -67,7 +67,7 @@ Please comment on the enhancement issue to:
 - link to relevant issues in other repos
 
 Please do not comment on the enhancement issue to:
-- discuss a detail of the design, code, or docs. Use a linked-to-issue or PR for that
+- discuss a detail of the design, code or docs. Use a linked-to-issue or PR for that
 
 ## Enhancements Tracking Spreadsheet
 
